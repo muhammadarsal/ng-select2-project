@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "@types/jquery": "^3.2.11",
-    "@types/select2": "^4.0.40",
+    "@types/select2": "^4.0.41",
     "core-js": "^2.4.1",
     "jquery": "^3.2.1",
     "rxjs": "^5.1.0",
